@@ -10,7 +10,7 @@ A simple vocabulary learning application developed in C# using Windows Forms. Th
 
 ## **Install**
 ### Follow these steps to download and run the application:
-1. Open the [Releases](https://github.com/users/necr0smvncer-commits/releases](https://github.com/necr0smvncer-commits/Vocabulary_Trainer/releases)) page.
+1. Open the [Releases](https://github.com/necr0smvncer-commits/Vocabulary_Trainer/releases/tag/v1.0.0) page.
 2. Download the latest .zip file under Assets.
 3. Extract the downloaded archive to a folder of your choice.
 4. Open the extracted folder.
